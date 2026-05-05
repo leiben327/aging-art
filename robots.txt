@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://leiben327.github.io/agingart/sitemap.xml
+Sitemap: https://leiben327.github.io/aging-art/sitemap.xml

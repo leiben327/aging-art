@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "leiben327/LeiWangAgingArt.github.io",
+    "data-repo": "leiben327/aging-art",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
